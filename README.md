@@ -5,7 +5,7 @@ A data set of 41.8 million tweets from 10 million users which contain one of the
 
 ## Citation
 
-If you use this data in your work please cite the following [paper](http://aclweb.org/anthology/D17-2010):
+If you use this data in your work please cite the following [paper](https://arxiv.org/abs/2009.00596):
 
 ```
 @misc{giorgi2020twitter,
