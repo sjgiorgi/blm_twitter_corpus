@@ -8,7 +8,7 @@ A data set of 41.8 million tweets from 10 million users which contain one of the
 
 ## Data
 
-Data is available at[Zenodo](https://doi.org/10.5281/zenodo.4056563).
+Data is available at [Zenodo](https://doi.org/10.5281/zenodo.4056563).
 
 
 ## Citation
