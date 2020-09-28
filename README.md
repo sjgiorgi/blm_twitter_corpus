@@ -1,7 +1,15 @@
 # Black Lives Matter Twitter Corpus
 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4056563.svg)](https://doi.org/10.5281/zenodo.4056563)
+
+
 A data set of 41.8 million tweets from 10 million users which contain one of the following keywords: *BlackLivesMatter*, *AllLivesMatter* and *BlueLivesMatter*.
+
+## Data
+
+Data is available at[Zenodo](https://doi.org/10.5281/zenodo.4056563).
+
 
 ## Citation
 
