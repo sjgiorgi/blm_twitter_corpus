@@ -5,7 +5,7 @@
 
 
 
-A data set of 41.8 million tweets from 10 million users which contain one of the following keywords: *BlackLivesMatter*, *AllLivesMatter* and *BlueLivesMatter*.
+A data set of 56.1 million tweets from 11.7 million users which contain one of the following keywords: *BlackLivesMatter*, *AllLivesMatter* and *BlueLivesMatter*.
 
 ## Data
 
