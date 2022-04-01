@@ -1,15 +1,12 @@
 # Black Lives Matter Twitter Corpus
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5835260.svg)](https://doi.org/10.5281/zenodo.5835260)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4897616.svg)](https://doi.org/10.5281/zenodo.4897616)
-
-
-
-A data set of 56.1 million tweets from 11.7 million users which contain one of the following keywords: *BlackLivesMatter*, *AllLivesMatter* and *BlueLivesMatter*.
+A data set of 63.9 million tweets from 13.0 million users from over 100 countries which contain one of the following keywords: *BlackLivesMatter*, *AllLivesMatter* and *BlueLivesMatter*.
 
 ## Data
 
-Data is available at [Zenodo](https://doi.org/10.5281/zenodo.4897616).
+Data is available at [Zenodo](https://doi.org/10.5281/zenodo.5835260).
 
 
 ## Downloading Tweet Content
@@ -80,13 +77,18 @@ Please be careful when opening these files in Excel. Excel might automatically c
 If you use this data in your work please cite the following [paper](https://arxiv.org/abs/2009.00596):
 
 ```
-@misc{giorgi2020twitter,
-    title={Twitter Corpus of the #BlackLivesMatter Movement And Counter Protests: 2013 to 2020},
-    author={Salvatore Giorgi and Sharath Chandra Guntuku and Muhammad Rahman and McKenzie Himelein-Wachowiak and Amy Kwarteng and Brenda Curtis},
-    year={2020},
-    eprint={2009.00596},
-    archivePrefix={arXiv},
-    primaryClass={cs.SI}
+@misc{giorgi2022twitter,
+  author       = {Salvatore Giorgi and
+                  Sharath Chandra Guntuku and
+                  McKenzie Himelein-Wachowiak and
+                  Amy Kwarteng and
+                  Sy Hwang and
+                  Muhammad Rahman and
+                  Brenda Curtis},
+  title        = {Twitter Data of the \#BlackLivesMatter Movement And 
+                   Counter Protests: 2013 to 2021},
+  year         = {2022},
+  journal      = {Proceedings of the International AAAI Conference on Web and Social Media}, 
 }
 ```
 
