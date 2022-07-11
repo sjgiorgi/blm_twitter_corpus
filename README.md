@@ -30,7 +30,7 @@ wget https://zenodo.org/record/4897616/files/twitter.tar.gz
 tar -xf twitter.tar.gz
 ```
 
-This file contains separate folders for each year. Since the volume of tweets in 2020 was significantly larger than all previous years, all years except 2020 have a single file, while 2020 has separate files for each month. Each file contains the following fields: *message_id*, *user_id*, *blacklivesmatter*, *alllivesmatter*, *bluelivesmatter*. Next, we create a file containing only tweet ids. We extract data from June 2020 as an example:
+This file contains separate folders for each year. Since the volume of tweets in 2020 was significantly larger than all previous years, all years except 2020 have a single file, while 2020 has separate files for each month. Each file contains the following fields: *message_id*, *blacklivesmatter*, *alllivesmatter*, *bluelivesmatter*. Next, we create a file containing only tweet ids. We extract data from June 2020 as an example:
 
 ```
 cd twitter/2020
