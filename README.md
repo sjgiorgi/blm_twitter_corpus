@@ -10,6 +10,10 @@ A data set of 41.8 million tweets from 10 million users which contain one of the
 
 Data is available at [Zenodo](https://doi.org/10.5281/zenodo.4056563).
 
+## Tweet Counter Per Day
+
+Daily tweet counts are available in the `tweet_counts_per_day.csv` file. 
+
 
 ## Downloading Tweet Content
 
