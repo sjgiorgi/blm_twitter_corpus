@@ -4,6 +4,9 @@
 
 A data set of 63.9 million tweets from 13.0 million users from over 100 countries which contain one of the following keywords: *BlackLivesMatter*, *AllLivesMatter* and *BlueLivesMatter*.
 
+> **Warning**
+> Full tweets (and associated meta-data) are not sharable. This repo only contains Tweet IDs which you must rehydrate yourself. 
+
 ## Data
 
 Data is available at [Zenodo](https://doi.org/10.5281/zenodo.5835260).
